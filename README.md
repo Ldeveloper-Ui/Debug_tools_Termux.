@@ -5,3 +5,9 @@ this for Helping People Debug Their Code I made this to help education and other
 ./Debug_tools.sh py <filename>
 ```
 This is beta not yet fixed.
+
+or edit In ~/.bshrc.
+```
+nano ~/.bashrc  [and type] {alias Debug="$HOME/debug/Debugtools.sh}
+```
+this Not done now i'm working on it. For those of you who want to know, it's 2 months away. 
